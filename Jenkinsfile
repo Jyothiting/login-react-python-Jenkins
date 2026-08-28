@@ -9,7 +9,7 @@ pipeline {
 
     environment {
         DEPLOY_USER = "ubuntu"
-        DEPLOY_HOST = "YOUR_LOGIN_SERVER_IP"
+        DEPLOY_HOST = "3.110.30.13"
         APP_DIR = "/home/ubuntu/login-react-python-Jenkins"
     }
 
