@@ -4,7 +4,7 @@ pipeline {
  
     environment {
 
-        APP_DIR = '/home/ubuntu/login-react-python'
+        APP_DIR = '/home/ubuntu/login-react-python-Jenkins'
 
     }
  
